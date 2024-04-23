@@ -4,18 +4,17 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React%20|%20Java+Script%20|%20HTML+CSS;Node+Js%20|%20Express+Js%20;Building%20the%20Pixel+Web%20&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React%20|%20Java+Script%20|%20HTML+CSS;Node+Js%20|%20Express+Js%20|%20MongoDB;Building%20the%20Web%20&center=true&width=380&height=45">
 	</a>
 </p>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+🔭 Experienced in MERN stack (MongoDB, Express.js, React, Node.js) web application development
+🌟 Proficient in JavaScript , ReactJs and Java
+📝 I have a strong interest in building Full Stack Web applications
+🌟 Specialized in crafting Frontend Development for applications
+🌱 Dedicated to understanding customer needs and simplifying their experiences
+🚩 Interested in Full Stack Web Applications development
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
