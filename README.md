@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Mern+Stack+Developer;Full+Stack+Developer;React%20|%20Java+Script%20|%20HTML+CSS5;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Mern+Stack+Developer;Full+Stack+Developer;React%20|%20Java+Script%20|%20HTML+CSS;Node+Js%20|%20Express+Js%20|%20MongoDB%20Web+Applications;Building%20the+Web%20Pixel+By+Pixel%20and+Code+By+Code&center=true&width=380&height=45">
 	</a>
 </p>
 
