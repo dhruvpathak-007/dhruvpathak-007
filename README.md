@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Dhruv</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/dhruvpathak-007/dhruvpathak-007/blob/main/Add%20a%20heading.png"/></a>
+<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/dhruvpathak-007/dhruvpathak-007/blob/main/Add%20a%20heading%20(3).png"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
