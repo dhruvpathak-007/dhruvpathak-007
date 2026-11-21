@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvpathak-007&label=Profile%20views&color=24c6dc&style=for-the-badge" alt="views"/>
   <img src="https://img.shields.io/badge/Location-Noida%2C%20India-302b63?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=for-the-badge" alt="status"/>
 </p>
 
 <p align="center">
